@@ -13,7 +13,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
 ### Tools Used
 ---
 - Microsot Excel [Download Here](https://www.microsoft.com)
-  1. for Data cleaning,
+  1. for Data cleaning
   2. Analysis
   3. Analysis and Visualization
     
