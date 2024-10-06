@@ -15,7 +15,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
 - Microsot Excel [Download Here](https://www.microsoft.com)
   1. for Data cleaning
   2. Analysis
-  3. Analysis and Visualization
+  3. Analysis and Visualization.
     
 - SQL - Structured Query Language for quering of Data
 - Github for Portolio Builing                 
