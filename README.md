@@ -44,3 +44,8 @@ WHERE CONDITION = TRUE
  ```
 
 ### Data visualization
+![Bar chart](https://github.com/user-attachments/assets/3e679735-bcac-49f4-a6e0-6d377ff684a6)
+
+![Images](https://github.com/user-attachments/assets/9a3ac395-8152-44eb-93a8-f65ff52c96c6)
+
+![LITA images](https://github.com/user-attachments/assets/84624cbb-35e0-468f-9366-f1eb4330930d)
