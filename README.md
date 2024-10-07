@@ -49,3 +49,7 @@ WHERE CONDITION = TRUE
 ![Images](https://github.com/user-attachments/assets/9a3ac395-8152-44eb-93a8-f65ff52c96c6)
 
 ![LITA images](https://github.com/user-attachments/assets/84624cbb-35e0-468f-9366-f1eb4330930d)
+
+:1st_Price_Medal:
+
+:computer:
